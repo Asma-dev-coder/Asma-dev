@@ -41,9 +41,9 @@ Frontend &amp; Node.js Developer | Building Fast, Responsive &amp; User-Focused 
 ---
 
 ## 📫 Connect With Me
-📧 Email: your-email@example.com  
+📧 Email:rehmanasma3322@gmail.com 
 💼 Upwork: add-link  
-🌐 Portfolio: add-link  
+🌐 Portfolio: http://127.0.0.1:5500/index.html
 
 ---
 
